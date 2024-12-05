@@ -1,0 +1,194 @@
+[
+  {
+    "id": "1",
+    "nombre": "usuario1",
+    "ciudad": "lisboa",
+    "cif": "B14507610",
+    "direccion": "americo castro 74",
+    "email": "ludivan9@gmail.com",
+    "telefono": "630361692",
+    "password": "password1",
+    "actividad": "restauracion",
+    "resumen": "resumen1",
+    "textos": [
+      "text1",
+      "text2"
+    ],
+    "fotos": [
+      "imagen1.jpg",
+      "imagen2.jpg"
+    ],
+    "scoring": "5",
+    "numero_puntaciones": "10",
+    "resenias": [
+      "reseña1",
+      "reseña2"
+    ]
+  },
+  {
+    "id": "2",
+    "nombre": "usuario2",
+    "ciudad": "madrid",
+    "cif": "B14507610",
+    "direccion": "americo castro 74",
+    "email": "ludivan9@gmail.com",
+    "telefono": "630361692",
+    "password": "password2",
+    "actividad": "restauracion",
+    "resumen": "resumen1",
+    "textos": [
+      "text1",
+      "text2"
+    ],
+    "fotos": [
+      "foto1",
+      "foto2"
+    ],
+    "scoring": "1",
+    "numero_puntaciones": "13",
+    "resenias": [
+      "reseña1",
+      "reseña2"
+    ]
+  },
+  {
+    "id": "3",
+    "nombre": "comercio3",
+    "ciudad": "madrid",
+    "cif": "B14507611",
+    "direccion": "ana de austria 54",
+    "email": "didi@gmail.com",
+    "telefono": "67756278",
+    "password": "password3",
+    "actividad": "restauracion",
+    "resumen": "resumen1",
+    "textos": [
+      "text1",
+      "text2"
+    ],
+    "fotos": [
+      "foto1",
+      "foto2"
+    ],
+    "scoring": "5",
+    "numero_puntaciones": "10",
+    "resenias": [
+      "reseña1",
+      "reseña2"
+    ]
+  },
+  {
+    "id": "4",
+    "nombre": "comercio4",
+    "ciudad": "barcelona",
+    "cif": "B14507611",
+    "direccion": "ana de austria 54",
+    "email": "didi@gmail.com",
+    "telefono": "6736278",
+    "password": "password4",
+    "actividad": "restauracion",
+    "resumen": "resumen1",
+    "textos": [
+      "text1",
+      "text2"
+    ],
+    "fotos": [
+      "foto1",
+      "foto2"
+    ],
+    "scoring": "5",
+    "numero_puntaciones": "10",
+    "resenias": [
+      "reseña1",
+      "reseña2"
+    ]
+  },
+  {
+    "id": "5",
+    "nombre": "comercio5",
+    "ciudad": "caceres",
+    "cif": "B14507611",
+    "direccion": "ana de austria 54",
+    "email": "didi@gmail.com",
+    "telefono": "6776478",
+    "password": "password5",
+    "actividad": "restauracion",
+    "resumen": "resumen1",
+    "textos": [
+      "text1",
+      "text2"
+    ],
+    "fotos": [
+      "foto1",
+      "foto2"
+    ],
+    "scoring": "5",
+    "numero_puntaciones": "10",
+    "resenias": [
+      "reseña1",
+      "reseña2"
+    ]
+  },
+  {
+    "id": "6",
+    "nombre": "comercio6",
+    "ciudad": "barcelona",
+    "cif": "B14507611",
+    "direccion": "ana de austria 54",
+    "email": "didi@gmail.com",
+    "telefono": "62076478",
+    "password": "password6",
+    "actividad": "restauracion",
+    "resumen": "resumen1",
+    "textos": [
+      "text1",
+      "text2"
+    ],
+    "fotos": [
+      "foto1",
+      "foto2"
+    ],
+    "scoring": "5",
+    "numero_puntaciones": "10",
+    "resenias": [
+      "reseña1",
+      "reseña2"
+    ]
+  },
+  {
+    "id": "7",
+    "nombre": "comercio7",
+    "ciudad": "Madrid",
+    "cif": "",
+    "direccion": "",
+    "email": "",
+    "telefono": "",
+    "password": "password7",
+    "actividad": "",
+    "resumen": "",
+    "textos": [
+      "text1",
+      "text2"
+    ],
+    "fotos": [
+      "foto1",
+      "foto2"
+    ],
+    "scoring": "5",
+    "numero_puntaciones": "10",
+    "resenias": [
+      "reseña1",
+      "reseña2"
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "ComercioLucas",
+    "ciudad": "Madrid",
+    "cif": "qwqw",
+    "direccion": "wqw",
+    "email": "qww",
+    "telefono": "qwqw",
+    "password": "wqwq"
+  }
+]

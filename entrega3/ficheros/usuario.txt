@@ -1,0 +1,136 @@
+[
+  {
+    "id": "1",
+    "nombre": "usuario1",
+    "ciudad": "Lisboa",
+    "edad": "16",
+    "direccion": "Américo Castro 74",
+    "email": "ludivan9@gmail.com",
+    "intereses": [
+      "630361692",
+      "dadad"
+    ],
+    "password": "password1",
+    "PermiteRecibirOfertas": true
+  },
+  {
+    "id": "2",
+    "nombre": "usuario2",
+    "ciudad": "Madrid",
+    "edad": "25",
+    "direccion": "Calle Mayor 12",
+    "email": "juan@gmail.com",
+    "intereses": [
+      "cine",
+      "lectura",
+      "deporte"
+    ],
+    "password": "password2",
+    "PermiteRecibirOfertas": true
+  },
+  {
+    "id": "3",
+    "nombre": "usuario3",
+    "ciudad": "Barcelona",
+    "edad": "35",
+    "direccion": "Avenida Diagonal 100",
+    "email": "maria@gmail.com",
+    "intereses": [
+      "musica",
+      "viajes",
+      "cocina"
+    ],
+    "password": "password3",
+    "PermiteRecibirOfertas": true
+  },
+  {
+    "id": "4",
+    "nombre": "usuario4",
+    "ciudad": "Valencia",
+    "edad": "45",
+    "direccion": "Plaza del Ayuntamiento 1",
+    "email": "luis@gmail.com",
+    "intereses": [
+      "tecnología",
+      "negocios",
+      "política"
+    ],
+    "password": "password4",
+    "PermiteRecibirOfertas": false
+  },
+  {
+    "id": "5",
+    "nombre": "usuario5",
+    "ciudad": "Sevilla",
+    "edad": "55",
+    "direccion": "Calle Sierpes 4",
+    "email": "ana@gmail.com",
+    "intereses": [
+      "arte",
+      "historia",
+      "cultura"
+    ],
+    "password": "password5",
+    "PermiteRecibirOfertas": true
+  },
+  {
+    "id": "6",
+    "nombre": "usuario6",
+    "ciudad": "Zaragoza",
+    "edad": "65",
+    "direccion": "Plaza de España 1",
+    "email": "jose@gmail.com",
+    "intereses": [
+      "deporte",
+      "salud",
+      "familia"
+    ],
+    "password": "password6",
+    "PermiteRecibirOfertas": false
+  },
+  {
+    "id": "7",
+    "nombre": "usuario7",
+    "ciudad": "Málaga",
+    "edad": "75",
+    "direccion": "Calle Larios 1",
+    "email": "pepe@gmail.com",
+    "intereses": [
+      "viajes",
+      "naturaleza",
+      "animales"
+    ],
+    "password": "password7",
+    "PermiteRecibirOfertas": true
+  },
+  {
+    "id": "8",
+    "nombre": "usuario8",
+    "ciudad": "Granada",
+    "edad": "85",
+    "direccion": "Calle Elvira 1",
+    "email": "carlos@gmail.com",
+    "intereses": [
+      "literatura",
+      "arte",
+      "filosofía"
+    ],
+    "password": "password8",
+    "PermiteRecibirOfertas": false
+  },
+  {
+    "id": "9",
+    "nombre": "usuario9",
+    "ciudad": "Córdoba",
+    "edad": "95",
+    "direccion": "Calle del Gran Capitán 1",
+    "email": "mariano@gmail.com",
+    "intereses": [
+      "historia",
+      "cultura",
+      "religión"
+    ],
+    "password": "password9",
+    "PermiteRecibirOfertas": true
+  }
+]
